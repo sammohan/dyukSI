@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+
+#####################
+'''Status line at the bottom
+is working good here.
+'''
+#####################
 from  tkinter import *
 from  tkinter.filedialog import *
 from tkinter import ttk
